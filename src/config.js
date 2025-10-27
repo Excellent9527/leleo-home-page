@@ -63,9 +63,9 @@ const config = {
 
 	//打字机
 	typeWriterStrings: [
-		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
-		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
-		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
+		"一个人身上真正闪耀的东西是善良、是教养、是包容，是见过世面的涵养。向阳而生，做一个温暖的人，不卑不亢，清澈善良",
+		"任何事情，急于求成都是幼稚的幻想，急于求成的结果一定是不成，对此不应该有任何怀疑",
+		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐",
 		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
 		
 	],
@@ -139,14 +139,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 点击前往", img: "https://wp.upx8.com/api.php?content=动漫", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 点击前往", img: "https://t.alcy.cc/ai", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗂️ 点击前往", img: "https://t.alcy.cc/ai", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "📝 点击前往", img: "https://t.alcy.cc/ai", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "👍 点击前往", img: "https://t.alcy.cc/ai", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗃 点击前往", img: "https://t.alcy.cc/ai", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🎨 点击前往", img: "https://t.alcy.cc/ai", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "💍 点击前往", img: "https://t.alcy.cc/ai", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🔍 点击前往", img: "https://t.alcy.cc/ai", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 JDB"],
