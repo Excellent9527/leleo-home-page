@@ -8,7 +8,7 @@ const config = {
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, 我是嘉多宝~", // 标题
+	welcometitle: "Hi, Im，JiaDuoBao~", // 标题
 
 	// 颜色配置
 	color: {
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['唱跳', 'rap篮球', '练习两年半', '只因你太美！'],
 
 	// 默认背景壁纸
 	background: {
